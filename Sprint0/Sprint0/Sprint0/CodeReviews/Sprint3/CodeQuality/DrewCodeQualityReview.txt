@@ -1,0 +1,16 @@
+﻿Drew Nocton
+10-20-2014
+Sprint 3
+MarioLevelLoader.cs
+Main Author: James Burgess
+Time: 5 Minutes
+
+The Level loader code is well organized. The two functions in the class have value initializations
+and the rest is enclosed in "if" and "switch" structures. 
+These structures have very little code in each, which is very useful in order to keep functionality isolated,
+in case a certain function or snippet of code is affecting the output and needs to be traced or changed.
+The simple implementation of a parser and loading the level from a formatted external file avoids
+a lot of possible code smells and pares down the statements needed.
+
+The only suggestion I have for this file is that we keep an eye on it, as it will definitely be changing in the next few sprints,
+with the changes to the level design, but it is good that the parser will stay mostly the same.

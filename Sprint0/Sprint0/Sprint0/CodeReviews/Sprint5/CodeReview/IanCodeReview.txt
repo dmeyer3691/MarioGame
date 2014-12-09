@@ -1,0 +1,13 @@
+﻿
+Ian Cross
+11-17-14
+5
+hud.cs
+David Meyer
+
+The methods are very well split up to keep calculations in each one to a minimum.  Helps follow the code as well.
+Variables and methods are named in a way that comments are kept to a minimum.
+
+
+Couple methods such as coin or life could be combined at just take an input. reducing lines of code.
+The text variable is used multiple time where it could have a set variable allowing the text formating to be done with a single method.

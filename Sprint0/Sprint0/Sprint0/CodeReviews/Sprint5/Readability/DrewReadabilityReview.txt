@@ -1,0 +1,12 @@
+﻿Drew Nocton
+11/12/2014
+Sprint 5
+Constants.cs
+Author: James Burgess
+
+Time: 5 minutes
+
+This file is very simple, it's a list of values needed at a global scope throughout the code.
+Each value is an initialization and doesn't reference other files.
+Values are separated by categories (comments).
+Very readable and understandable at a glance.

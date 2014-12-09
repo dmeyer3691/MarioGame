@@ -1,0 +1,9 @@
+﻿David Meyer
+11-17-2014
+Sprint 5
+Fireball.cs
+Main Author: Drew Nocton
+Time: 5 Minutes
+
+The length of this file and the legnth of the methods are all good. It is coupled with the camera but so are all our other objects.
+The fireball functionality still doesn't work so there must be another problem somewhere else in the pipeline.

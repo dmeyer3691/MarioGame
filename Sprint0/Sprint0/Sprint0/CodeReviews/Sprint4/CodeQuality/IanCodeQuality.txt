@@ -1,0 +1,11 @@
+﻿Ian Cross
+11-3-14
+4
+MarioPhysics.cs
+David Meyer
+
+The use of switch statements makes easy to manage with new information
+A few unneeded variables since values are the same
+
+Not a whole lot to change since the class is pretty effecient as is. 
+The only thing I can see is to put velocity and other calculations into a seperate method to eliminate a few repeats.

@@ -1,0 +1,14 @@
+﻿ Drew Nocton
+10/7/2014
+Sprint 3
+MarioLevelLoader.cs
+Author: James Burgess
+
+10 Minutes
+
+MarioLevelLoader contains a static LoadLevelFromFile and a static private LoadLevel function. Organizing into two core functions this way is helpful to understand the structure (for the reader).
+LoadLevelFromFile is easy to ready but can be tricky to understand without knowledge of the Level structure. Comments would be useful.
+Loadlevel initiates the level elements and reads them in from the stream, creating objects and adding them to the lists, then iterating.
+This function separates the objects by type fairly cleanly, and it is pretty easy to understand.
+I would suggest some (maybe even 1) comment giving a basic explanation of what this class does, other than that it seems very well written.
+	

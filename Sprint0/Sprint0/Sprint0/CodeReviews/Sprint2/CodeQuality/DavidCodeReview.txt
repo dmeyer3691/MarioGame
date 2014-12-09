@@ -1,0 +1,13 @@
+﻿David Meyer
+29-9-2014
+Sprint 2
+Mario.cs
+Main Author: Drew Nocton
+Time: 5 Minutes
+
+Overall I think the quality of this code is pretty high. It has high cohesion because everything pertains to mario specifically.
+Methods are public because they need to be accessed elsewhere and members are private to limit access. The length of the file is
+getting a little long but this is just because mario has a lot of actions that he needs to perform.
+
+I think this design supports game changes pretty well. It could easily add more or less actions to mario and the state file doesn't have to be changed.
+Also changes to state don't affect this file unless the names are changed or additional methods are added.

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<level>
+<mario xpos="600" ypos="150" />
+<enemy type="goomba" xpos="300" ypos="150" />
+<enemy type="greenkoopa" xpos="300" ypos="200" />
+<enemy type="redkoopa" xpos="300" ypos="250" />
+<item type="coin" xpos="150" ypos="150" />
+<item type="fireflower" xpos="150" ypos="250" />
+<item type="mushroom" xpos="150" ypos="200" />
+<item type="oneup" xpos="150" ypos="300" />
+<item type="star" xpos="150" ypos="350" />
+<block type="hitqblock" xpos="450" ypos="350" />
+<block type="qblock" xpos="450" ypos="300" />
+<block type="pipe" xpos="450" ypos="250" />
+<block type="roughplatform" xpos="450" ypos="400" />
+<block type="smoothplatform" xpos="450" ypos="450" />
+<block type="brick" xpos="450" ypos="150" />
+<block type="topbrick" xpos="450" ypos="200" />
+</level>

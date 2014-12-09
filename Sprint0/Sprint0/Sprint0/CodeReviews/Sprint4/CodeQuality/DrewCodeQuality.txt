@@ -1,0 +1,12 @@
+﻿Drew Nocton
+11/5/2014
+Camera.cs
+Author: James Burgess
+5 minutes
+
+The camera file has light code, which is great for reducing possible errors;
+methods are constrained to 1-4 lines and work through the project heirarchy.
+It does have a strange dependency between Mario and the camera which calls for an Init function
+as well as a constructor, which may just be a problem with the class heirarchy, I'm not sure how it could affect
+our project or its code quality.
+Other than that, the code seems well managed and not very dependent on other classes. 

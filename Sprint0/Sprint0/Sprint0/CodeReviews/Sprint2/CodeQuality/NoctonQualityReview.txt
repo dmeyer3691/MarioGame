@@ -1,0 +1,16 @@
+﻿    
+	Drew Nocton
+	9/29/2014
+    Sprint 2
+    MarioState.cs
+    Author: James Burgess
+
+	10 minutes
+
+	Since last week, James cut down on the number of states held in the enum by using a SpriteEffects class and some boolean values. 
+	While this makes the code more concise and less unilateral in handling situations (i.e. one state for every possible moment),
+	it also creates a new class which could be messier to organize later in the scope of the project. 
+	The quality of the code is good, as it tries to limit the amount of code in order to isolate problems. 
+	For example, ReloadSprite is on switch-case statement. Each case only contains 1-2 lines of code, so if anything happens it will be easy to find the source.
+
+	For a reccomendation I would say James should keep his class structure as simple as possible.

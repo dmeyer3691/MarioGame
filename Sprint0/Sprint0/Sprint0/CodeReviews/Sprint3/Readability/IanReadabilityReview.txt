@@ -1,0 +1,9 @@
+﻿Ian Cross
+10-7
+3
+Mario.cs
+David Meyer
+5 min
+
+His Collision method is well organized which makes it easy to read.
+Additional comments would help find specific code  quicker otherwise fine.

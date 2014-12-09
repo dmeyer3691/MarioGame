@@ -1,0 +1,13 @@
+﻿
+
+Ian Cross
+9-29
+2
+sprint2.cs
+David Meyer
+
+- Variable initalization and implimentation is focused in the initalize and load content methods, making draw and update methods much cleaner.
+- Code and method names are all very specific or universal 
+
+    A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change 
+- The method for reseting the states and position of the sprites is not very elegant and duplicates code.  To make this simpler initilize could call reset. (EDIT, it appears this was actually changed.)

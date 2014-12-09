@@ -1,0 +1,8 @@
+﻿James Burgess
+29-10-2014
+Sprint 4
+ItemAllCollision.cs
+Main Author: Ian Cross
+Time: 10 Minutes
+Uncommented, but still fairly readable code. 
+The only odd bit of it, is that the ItemCollisionTest function doesn't specify what its return value signifies, and also always returns -1, which doesn't seem particularly intuitive to me.

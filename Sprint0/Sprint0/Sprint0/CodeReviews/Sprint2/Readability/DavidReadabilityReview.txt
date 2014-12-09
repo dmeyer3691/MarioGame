@@ -1,0 +1,11 @@
+﻿David Meyer
+24-9-2014
+Sprint 2
+Mario.cs
+Main Author: Drew Nocton
+Time: 1 Minute
+
+No comments at all.
+Currently it looks like a pretty unuseful container class that just makes identical calls to its private State object.
+However this makes sense because Mario is not required to change locations on the screen.
+Would be nice to see some comments about this in the code to understand its purpose quicker.

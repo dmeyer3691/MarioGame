@@ -1,0 +1,9 @@
+﻿James Burgess
+20-10-2014
+Sprint 3
+EnemyCollisionTests.cs
+Main Author: Ian Cross
+Time: 5 Minutes
+	Assert is a clean way to do error testing.
+	Collision detection helper is a bit strange, but it probably can't be helped much given the nature of the problem.
+		I'd suggest at least having it return values of of an enum rather than the hard coded ints though.

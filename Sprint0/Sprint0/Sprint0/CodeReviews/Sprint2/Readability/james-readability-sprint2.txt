@@ -1,0 +1,10 @@
+﻿James Burgess
+24-9-2014
+Sprint 2
+Goomba.cs
+Main Author: Ian Cross
+Time: 1 Minute
+
+Goomba is fairly small which makes it easily readable.
+It's unclear where something like Goomba AI logic would go in this implementation, but what is currently there is clear and works fine.
+

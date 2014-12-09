@@ -1,0 +1,11 @@
+﻿Drew Nocton
+11/18/2014
+Sprint 5
+Constants.cs
+Author: James Burgess
+
+Time: 5 minutes
+
+This code is great, there isn't much room for bad quality because it's a static class with public constants.
+There's no bad coupling problems here and cohesion is all left up to the classes that utilize this file.
+Being of a simple design, this code functions well and can really only be used poorly, no inherent problems here that I could think of.

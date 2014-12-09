@@ -1,0 +1,9 @@
+﻿James Burgess
+07-10-2014
+Sprint 3
+EnemyCollisionTests.cs
+Main Author: Ian Cross
+Time: 5 Minutes
+
+I think this could be made a lot more readable with the changing of hardcoded int returns to enum values, though the comments help.
+Also, it might be more readable if the classes for specific tests were made in those test methods rather than in one giant block in the begining.

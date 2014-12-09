@@ -1,0 +1,11 @@
+﻿David Meyer
+10-13-2014
+Sprint 3
+Background.cs
+Main Author: Drew Nocton
+Time: 5 Minutes
+
+Overall I think the quality of this code is high. The naming conventions are descriptive and the class is highly cohesive.
+
+I think this design supports changes to the game pretty well. I think this class will have to be modified in the future
+however when we have a scrolling background but that can probably be accomplished with a couple more fields and a method or two.

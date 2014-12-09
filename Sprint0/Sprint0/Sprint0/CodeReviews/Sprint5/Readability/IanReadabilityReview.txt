@@ -1,0 +1,10 @@
+﻿
+Ian Cross
+11-12-14
+5
+hud.cs
+David Meyer
+10
+
+There are several long method calls and variables which may be necessary but make it difficult too read.
+The methods are very well split up allowing easy trace through the code.

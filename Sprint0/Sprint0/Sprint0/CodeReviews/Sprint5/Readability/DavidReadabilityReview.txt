@@ -1,0 +1,9 @@
+﻿David Meyer
+10-29
+5
+Fireball.cs
+Drew Nocton
+5 min
+
+Drew's Fireball.cs file is very readable. It follows the same pattern that our other game objects (items, enemies, etc) used
+and the variable names are descriptive. Comments are descriptive as well. 

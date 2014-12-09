@@ -1,0 +1,15 @@
+﻿
+    Drew Nocton
+	9/24/2014
+    Sprint 2
+    MarioState.cs
+    Author: James Burgess
+    
+	8 Minutes
+    
+	Mario State's methods are structured well, being mostly if-else or switch-case statements.
+	The purpose of each method needs this kind of structure, but it is inherently complex to read, not very pretty.
+	The states in the enum are all fairly similar, which is confusing.
+	There are very little comments, but I'm not sure if there's any specific commenting standard we should be upholding, so it may not be an issue.
+	Overall, Jame's code is good: it's well organized and uniform, but it uses a complex structure in each method.
+	I would suggest changing the if-else structures to be switch-case, possibly changing the state names, and working on comments.

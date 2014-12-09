@@ -1,0 +1,12 @@
+﻿Ian Cross
+12-7-14
+5
+KeyboardController.cs
+David Meyer
+
+The code isnt organized too bad it can just be difficult to follow or update
+Immbeded switch statements would make it hard to adjust in the future.
+
+
+move the keyboard into multiple classes would help clean it up.
+adding switches into other methods would help clean up the update call

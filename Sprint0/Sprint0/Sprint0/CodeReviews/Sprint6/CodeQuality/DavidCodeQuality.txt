@@ -1,0 +1,9 @@
+﻿David meyer
+12-7-14
+6
+Achievement.cs
+Drew Nocton
+
+Overall the acheivement code is pretty logical. However it could be generalized a little more. For example, if we add another enemy or item and want
+a corresponding acheivment we will have to create another case in the switch statement as well as a whole new method. The methods could probably be
+generalized to work for all acheivements.

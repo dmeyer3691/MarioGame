@@ -1,0 +1,11 @@
+﻿
+Ian Cross
+10-29-14
+4
+MarioPhysics.cs
+David Meyer
+10
+
+Variables are organized and grouped in a may that makes it easy to read and located.
+His methods have lots of spacing, possibly to much but it makes locating simple.
+A few comments could help within the methods for quicker location.

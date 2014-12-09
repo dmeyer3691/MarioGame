@@ -1,0 +1,7 @@
+﻿James Burgess
+12-11-2014
+Sprint 5
+SoundEffects.cs
+Main Author: Ian Cross
+Time: 10 Minutes
+Uncommented again. Variable names can be used to figure out what things are usually, but things like 'kick' aren't entirely intuitive. The class itself is simple and readable, as it should be since it's more or less a factory.

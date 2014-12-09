@@ -1,0 +1,10 @@
+﻿
+   Ian Cross
+   9-24
+   2
+   sprint2.cs
+   David Meyer
+   15 min
+   
+   Large chunks of created variables are well seperated to be easily located.
+   the draw method could be organized a little better but that's a side effect of the current implementation.

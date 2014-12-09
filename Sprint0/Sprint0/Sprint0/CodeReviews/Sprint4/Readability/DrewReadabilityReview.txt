@@ -1,0 +1,12 @@
+﻿Drew Nocton
+10/29/2014
+Sprint 4
+Camera.cs
+Author: James Burgess
+5 minutes
+
+The Camera class is very simply organized. 
+The constructor, init, and camera position functions are all one line and easy to read and see what they do.
+Some of the more complicated things, or things with temporary code, are commented for clarity.
+
+I would recommend putting in a comment or some other sign for the overloaded Draw methods, to show the differences to the reader.

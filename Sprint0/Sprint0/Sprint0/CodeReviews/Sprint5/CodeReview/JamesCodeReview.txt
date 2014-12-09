@@ -1,0 +1,8 @@
+﻿James Burgess
+17-11-2014
+Sprint 5
+SoundEffects.cs
+Main Author: Ian Cross
+Time: 10 Minutes
+Fairly simple and seems to work fine for our purposes, though there are a lot of methods all of which are very similar to each other. I personally would have just made one sound method with a passed in argument, but that seems to be the opposite of what we're being reccomended to do in general.
+The one issue is that it appears that content is loaded in the level loader, and that's not good as it means sound content is reloaded on level transitions, resets etc. I'd suggest moving the loading of sound effects into the toplevel like SpriteFactory's loading.

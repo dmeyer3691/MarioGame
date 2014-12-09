@@ -1,0 +1,7 @@
+﻿David meyer
+12-7-14
+6
+Achievement.cs
+Drew Nocton
+
+This file is very readable. The switch cases are intuitive and the method names all make sense for what the method does.

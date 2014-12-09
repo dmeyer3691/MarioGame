@@ -1,0 +1,13 @@
+﻿James Burgess
+03-11-2014
+Sprint 4
+ItemAllCollision.cs
+Main Author: Ian Cross
+Time: 25 Minutes
+	In the case where the intersection's width is greater than its height, this makes sense as it moves the item out of the object.
+	In the other cases, it's not at all clear why this code is written the way it is. 
+	It roughly works (for items, but the same copy-pasted code used in other places causes glitchy behaviour), but for example, the else if statements 
+	are a complicated equivilent to else if (rectangleX != blockRectangleX) { reverse();} and it's not clear that this is intended behaviour (particularly as its uncommented.)
+	the fact that it returns -1 in all cases except when the intersection width is greater than its height, regardless of if there was an intersection, only deepens the mystery.
+	A call trace suggests that the return value is being used to update the items y position. For every block. Regardless of if there was an intersection.
+	I'd reccomend rewriting this entirely, either keeping and simplifying the logic if it's actually intentional, or fixing it otherwise, and COMMENTING it to say what it is this is supposed to be doing.

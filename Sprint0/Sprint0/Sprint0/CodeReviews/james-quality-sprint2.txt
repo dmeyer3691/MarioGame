@@ -1,0 +1,11 @@
+﻿James Burgess
+29-9-2014
+Sprint 2
+Goomba.cs
+Main Author: Ian Cross
+Time: 1 Minute
+
+Goomba (As a representative of all the enemy classes) was refactored since the initial implementation to remember its own position in the level, so it will be extensible as far as adding movement logic now.
+It (and all of the enemy classes) is simple which makes it obvious that what is there is correct.
+
+As a reccomendation I'd suggest having Goomba be aware of its hitbox size to make collision finding easier.

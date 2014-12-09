@@ -1,0 +1,11 @@
+﻿
+
+Ian Cross
+10-20
+3
+Mario.cs
+David Meyer
+
+Most of the code quality is very effiecient.  The three collision methods could use some orginization.
+
+Consolidating the collision methods into a more effecience method or two would reduce clutter.  They could also be added to a whole other class to drasticly reduce code lines.

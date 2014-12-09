@@ -1,0 +1,9 @@
+﻿David Meyer
+10-7
+3
+Background.cs
+Drew Nocton
+5 min
+
+Drew's background.cs file is very readable. It follows the same pattern that our other sprites used
+and the variable names are descriptive.
